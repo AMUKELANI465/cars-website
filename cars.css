@@ -12,7 +12,7 @@
   }
   
   header {
-    background-color: #1e2a38;
+    background-color: whitesmoke;
     color: white;
     padding: 20px;
     text-align: center;
@@ -41,11 +41,15 @@
   }
   
   .hero {
-    background-color: #004080;
-    color: white;
+    background-color: whitesmoke;
+    color: #004080;
     padding: 50px 20px;
     text-align: center;
-    background: url(VW2019-0007M.jpg);
+    
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 2px;
+     border-top-right-radius: 2px;
    
     
   }
@@ -91,6 +95,7 @@
     color: white;
     text-align: center;
     padding: 20px;
+
   }
   #button1{
     padding: 5px;
